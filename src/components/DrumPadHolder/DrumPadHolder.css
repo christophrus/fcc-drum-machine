@@ -1,0 +1,12 @@
+#drum-pad {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#drum-pad > .drum-pad {
+    width: 30%;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
